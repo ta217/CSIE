@@ -2,7 +2,7 @@
 
 ---
 
-![](http://i.imgur.com/WzrBMPO.png)
+![](http://i.imgur.com/49Bhil7.png)
 
 ---
 
