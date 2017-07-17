@@ -6,6 +6,11 @@
 
 ---
 
+1.  No encounters
+2.  Encounters
+    1. First kind
+    2. Second kind
+
 - 職稱: 助教
 - 姓名: 陳玲娜
 - 負責業務: 
